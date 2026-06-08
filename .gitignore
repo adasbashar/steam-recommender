@@ -1,0 +1,16 @@
+# Dataset (too large for GitHub — see README for download link)
+*.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+venv/
+env/
